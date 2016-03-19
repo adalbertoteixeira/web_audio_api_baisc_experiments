@@ -1,6 +1,4 @@
-# Basic web server
-
-Forked from the [React tutorial](http://facebook.github.io/react/docs/tutorial.html).
+# Experiments with Web Audio API
 
 ### Node
 
